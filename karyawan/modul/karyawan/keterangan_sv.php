@@ -16,7 +16,7 @@ if (isset($_POST['simpan'])) {
 	$buktibaru = date('dmYHis').$bukti;
 	$path = "images/".$buktibaru;
 
-
+  
 }
 
 if (move_uploaded_file($tmp, $path)) {
