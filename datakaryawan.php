@@ -20,9 +20,9 @@ session_start();
     <meta name="author" content="Hau Nguyen">
     <meta name="keywords" content="au theme template">
 
-    <!-- Title Page-->
+    <!-- Title Page-->  
     <title>Data Karyawan</title>
-
+  
     <!-- Fontfaces CSS-->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="all">
     <link href="css/font-face.css" rel="stylesheet" media="all">
