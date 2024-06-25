@@ -42,7 +42,7 @@ while ($row=mysqli_fetch_array($data_karyawan)) {
                                                     }else{
                                                         echo "images";
                                                     }
-
+       
                                                      ?>
                                                     
 
