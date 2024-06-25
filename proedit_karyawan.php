@@ -43,7 +43,7 @@ if (isset($_POST['ubahdata'])) {
         while ($row = mysqli_fetch_array($query)) {
           echo "Maaf, Terjadi kesalahan saat mencoba untuk menyimpan data ke database.";
           echo "<br><a href=\"edit_karyawan.php?id_karyawan=".$row['id_karyawan']."\"> Kembali Ke From ! </a>";
-        }
+        } 
       }
     } //akhir move upload file
     else{
